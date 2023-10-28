@@ -23,3 +23,7 @@ Smaper has fixed interface and fixes to work with KEmulator. Has the ability to 
 
 
 ALL CLIENTS ARE SUPPORT [J2ME Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader&hl=ru&gl=US&pli=1) and [KEmulator](https://4pda.to/forum/index.php?showtopic=99949)
+
+
+
+My KICQ UIN: 3-739-186
