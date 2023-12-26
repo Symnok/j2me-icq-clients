@@ -9,6 +9,9 @@ Jimm Xattab Edition is patched and has 210 animated smiles. Has the ability to u
 
 LocID has animated smiles and preinstalled status plugins. Has some bugs with working in [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523).
 
+## LocID Extended
+LocID has a huge number of static emoticons and several plugins: weather, etc.
+
 ## DiChat
 
 DiChat has static smiles and preinstalled fixes(connecting). Has the ability to use the OSCAR protocol to work in [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523).
@@ -16,6 +19,10 @@ DiChat has static smiles and preinstalled fixes(connecting). Has the ability to 
 ## Jimm Best
 
 Jimm BEST(!) has static smiles and categories plugin. Has the ability to use the OSCAR protocol to work in [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523).
+
+## Jimm miranda
+
+Jimm miranda is a regular jimm xattab with other icons. Has a large number of static emoticons.
 
 ## Smaper
 
