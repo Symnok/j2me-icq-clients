@@ -32,6 +32,12 @@ Smaper has fixed interface and fixes to work with KEmulator. Has the ability to 
 
 wJimm is a modification of the regular Jimm with an interface similar to the Mandarin 2.5 client. Has several pre-installed themes to choose from.
 
+## MobKICQ
+
+MobKICQ has server settings to work with [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523), so you will not have problems logging into the OSCAR protocol server. The client is made specifically for [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523). Has static emoticons.
+
+
+
 ALL CLIENTS ARE SUPPORT [J2ME Loader](https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader&hl=ru&gl=US&pli=1) and [KEmulator](https://4pda.to/forum/index.php?showtopic=99949)
 
 
