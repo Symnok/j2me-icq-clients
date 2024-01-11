@@ -10,7 +10,47 @@ Jimm Xattab Edition is patched and has 210 animated smiles. Has the ability to u
 LocID has animated smiles and preinstalled status plugins. Has some bugs with working in [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523).
 
 ## LocID Extended
+
 LocID has a huge number of static emoticons and several plugins: weather, etc.
+
+## LocID BitByByte
+
+My LocID client build. There are a huge number of plugins, here is a list of them:
+
+- Предпросмотр передачи файлов
+- Отправка e-mail
+- Проверка на инвиз
+- FAyliReader
+- Конференция
+- Менеджер задач
+- Переадресация
+- Бегущая строка
+- Автоответчик
+- Расширенный заголовок
+- Игра "Виселица"
+- Заметки
+- Погода гисметео.ru
+- Диаграмма хипа
+- Ёлка
+- CellId
+- Переводчик
+- Персональные настройки
+- Мастер цветовой схемы
+- Массовая рассылка
+- Фоновые часы
+- I-Bot валюта
+- Игра x-о
+- RMS сохранение by Medvedev
+- VKontakte
+- Бесплатные SMS
+- Бесплатные SMS(wapinet)
+- Очистка хипа
+- Плеер
+- Создание list.txt
+- Статистика клиентов
+- Снежинки
+
+There are 160 animated emoticons.
 
 ## DiChat
 
