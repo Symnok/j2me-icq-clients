@@ -48,6 +48,7 @@ My LocID client build. There are a huge number of plugins, here is a list of the
 - Плеер
 - Создание list.txt
 - Статистика клиентов
+- Снежинки
 
 There are 160 animated emoticons.
 
