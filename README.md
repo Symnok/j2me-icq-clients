@@ -52,6 +52,10 @@ My LocID client build. There are a huge number of plugins, here is a list of the
 
 There are 160 animated emoticons.
 
+## LocID BitByByte stat
+
+This is static smiles version of my build of LocID. 501 static smiles.
+
 ## DiChat
 
 DiChat has static smiles and preinstalled fixes(connecting). Has the ability to use the OSCAR protocol to work in [KICQ](https://pikabu.ru/story/icq_iz_2005_vstrechayte_kicq_8884523).
