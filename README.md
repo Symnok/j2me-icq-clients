@@ -23,6 +23,7 @@ My LocID client build. There are a huge number of plugins, here is a list of the
 - FAyliReader
 - Конференция
 - Менеджер задач
+- Удаление RMS
 - Переадресация
 - Бегущая строка
 - Автоответчик
@@ -49,6 +50,11 @@ My LocID client build. There are a huge number of plugins, here is a list of the
 - Создание list.txt
 - Статистика клиентов
 - Снежинки
+- Opera
+- KDPLayer
+- StudentsCalc
+- SysCalc
+- nores_8410
 
 There are 160 animated emoticons.
 
