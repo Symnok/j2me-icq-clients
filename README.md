@@ -56,7 +56,7 @@ My LocID client build. There are a huge number of plugins, here is a list of the
 - SysCalc
 - nores_8410
 
-There are 160 animated emoticons.
+There are 112 animated emoticons.
 
 ## LocID BitByByte stat
 
